@@ -1,0 +1,52 @@
+/*p{*/
+    /*background: oldlace;*/
+/*}*/
+
+/*.firstLine{*/
+    /*background: lightblue;*/
+/*}*/
+
+h1{
+    text-align: center;
+}
+
+.text1{
+    color: #2d0091;
+    background: #cafdff;
+}
+
+.text2{
+    background: #effffd;
+}
+
+.text3{
+    background: #ffcdbe;
+}
+
+.borderIMG{
+    border: 1px dashed #2d0091;
+    border-bottom-left-radius: 90%;
+}
+
+.colorToDo{
+    background: #ffe7d6;
+}
+
+p {
+    border: 1px solid powderblue;
+}
+
+.p01 {
+    color: #d3928a;
+    margin: 0%;
+    border: hidden;
+}
+
+/*#block{*/
+    /*background: greenyellow;*/
+/*}*/
+
+/*#block2 .text2{*/
+    /*background: peachpuff;*/
+/*}*/
+
